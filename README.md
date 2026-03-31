@@ -82,13 +82,13 @@ streamlit run app.py
 ## 📸 Screenshots
 
 **Home Page & Upload Interface:**
-<img src="images/home_screen.png" width="600">
+<img src="home_screen.png" width="600">
 
 
 
 
 **Real-Time Defect Detection Results:**
-<img src="images/prediction_result.png" width="600">
+<img src="prediction_result.png" width="600">
 
 ---
 
