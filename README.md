@@ -92,16 +92,7 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author
-
 **Vivekanand Ojha**
-* Roll No. 723159
-* 3rd Year, B.Tech Mechanical Engineering
-* Minor in Electronics and Communication Engineering
-* National Institute of Technology, Andhra Pradesh
-
-**Under the Guidance of:**
-* Dr. P Usha, Assistant Professor (ECE)
-
 ---
 
 *If you find this project helpful, please consider giving it a ⭐!*
