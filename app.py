@@ -57,3 +57,4 @@ if uploaded_file is not None:
             conf = float(box.conf[0])
             class_name = model.names[class_id]
             st.write(f"- **{class_name.capitalize()}** detected with **{conf*100:.1f}%** confidence.")
+        

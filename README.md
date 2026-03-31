@@ -81,7 +81,6 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Note: Replace these placeholder links with actual screenshots of your running Streamlit app once you upload the images to your repository!)*
 
 **Home Page & Upload Interface:**
 <!-- <img src="images/home_screen.png" width="600"> -->
