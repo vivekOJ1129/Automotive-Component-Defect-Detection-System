@@ -1,0 +1,14 @@
+# YOLOv8 Configuration Map
+
+# 1. Path to your new dataset folder
+path: ./yolo_dataset
+
+# 2. Folders containing your train and val images
+train: images/train
+val: images/val
+
+# 3. Number of classes
+nc: 6
+
+# 4. The names of the classes (MUST match the exact order from our script)
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
