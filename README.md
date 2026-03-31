@@ -1,5 +1,3 @@
-Markdown
-
 # 🏭 Automotive Component Defect Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -48,63 +46,3 @@ To run this project locally on your machine, follow these steps:
 ```bash
 git clone [https://github.com/vivekOJ1129/Automotive-Component-Defect-Detection-System.git](https://github.com/vivekOJ1129/Automotive-Component-Defect-Detection-System.git)
 cd Automotive-Component-Defect-Detection-System
-
-2. Create a Virtual Environment (Recommended)
-Bash
-
-python -m venv venv
-# On Windows use: venv\Scripts\activate
-# On Mac/Linux use: source venv/bin/activate
-
-3. Install the dependencies
-Bash
-
-pip install ultralytics streamlit opencv-python pillow
-
-4. Run the Streamlit Application
-
-Ensure your YOLOv8 weights file (e.g., best.pt) is placed in the correct directory as referenced in your code, then run:
-Bash
-
-streamlit run app.py
-
-🖥️ Usage
-
-    Open the local web address provided by Streamlit in your terminal (usually http://localhost:8501).
-
-    Upload an image of a steel or automotive component (JPG, JPEG, PNG).
-
-    The application will instantly process the image using the YOLOv8 model.
-
-    View the resulting image with color-coded bounding boxes drawn directly over the localized defects.
-
-    Check the dynamic summary report for a breakdown of detected classes and confidence scores.
-
-📸 Screenshots
-
-(Note: Replace these placeholder links with actual screenshots of your running Streamlit app once you upload the images to your repository!)
-
-Home Page & Upload Interface:
-
-<!-- <img src="images/home_screen.png" width="600"> -->
-
-Real-Time Defect Detection Results:
-
-<!-- <img src="images/prediction_result.png" width="600"> -->
-👨‍💻 Author
-
-Vivekanand Ojha
-
-    Roll No. 723159
-
-    3rd Year, B.Tech Mechanical Engineering
-
-    Minor in Electronics and Communication Engineering
-
-    National Institute of Technology, Andhra Pradesh
-
-Under the Guidance of:
-
-    Dr. P Usha, Assistant Professor (ECE)
-
-If you find this project helpful, please consider giving it a ⭐!
